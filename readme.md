@@ -3,7 +3,7 @@
 # Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <a href="https://stark1tty.github.io/Awesome-Historical-Maps/"><img src="images/banner.jpg" width="600" alt="Historic map illustration"></a>
+  <a href="https://stark1tty.github.io/awesome-historical-maps/"><img src="images/banner.jpg" width="600" alt="Historic map illustration"></a>
 </p>
 
 > Databases, search engines, map collections, research guides, and tools for exploring historical maps and cartography.
