@@ -1,7 +1,7 @@
 title: Awesome Historic(al) Maps
 description: A curated list of historic(al) map resources, tools, databases, search engines, and collections.
 url: https://stark1tty.github.io
-baseurl: /Awesome-Historic_al-Maps
+baseurl: /Awesome-Historical-Maps
 
 plugins:
   - jekyll-seo-tag
