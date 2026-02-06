@@ -3,10 +3,10 @@
 # Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="images/banner.jpg" width="600" alt="Historic map illustration">
+  <a href="https://stark1tty.github.io/Awesome-Historical-Maps/"><img src="images/banner.jpg" width="600" alt="Historic map illustration"></a>
 </p>
 
-> Historic(al) maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of historic(al) maps.
+> Databases, search engines, map collections, research guides, and tools for exploring historical maps and cartography.
 
 Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analogous with the modern landscape. This repo encompasses both recent history and earlier.
 
