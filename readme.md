@@ -1,6 +1,6 @@
 <!--lint ignore no-dead-urls-->
 <!--lint ignore awesome-heading-->
-# Awesome Historic(al) Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="images/banner.jpg" width="600" alt="Historic map illustration">
