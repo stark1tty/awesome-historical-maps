@@ -8,12 +8,16 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- New categories, or improvements to the existing categorisation, are welcome.
+- Use the following format: `[Name](link) - Description.`
+- Keep descriptions short, simple, and accurate.
+- Descriptions must start with a capital letter and end with a period.
+- Check your spelling and grammar.
+- The pull request should have a useful title and include a link to the resource and why it should be included.
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
