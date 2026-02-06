@@ -1,26 +1,120 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      :root {
+        --accent: #2a6496;
+        --bg: #fdfdfd;
+        --text: #333;
+        --border: #e1e4e8;
+        --code-bg: #f6f8fa;
+      }
+      body {
+        background: var(--bg);
+        color: var(--text);
+      }
+      .site-header {
+        border-bottom: 2px solid var(--border);
+        padding-bottom: 1rem;
+        margin-bottom: 2rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+      }
+      .site-header h1 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+      .site-header a {
+        text-decoration: none;
+      }
+      .github-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        padding: 0.4rem 0.85rem;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        font-size: 0.85rem;
+        color: var(--text);
+        text-decoration: none;
+        transition: background 0.15s, border-color 0.15s;
+      }
+      .github-link:hover {
+        background: var(--code-bg);
+        border-color: #ccc;
+        text-decoration: none;
+      }
+      .github-link svg {
+        width: 18px;
+        height: 18px;
+        fill: currentColor;
+      }
+      .markdown-body h2 {
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.4rem;
+        margin-top: 2rem;
+      }
+      .markdown-body img {
+        max-width: 100%;
+        border-radius: 6px;
+        margin: 1rem 0;
+      }
+      .footer {
+        border-top: 1px solid var(--border);
+        margin-top: 3rem;
+        padding-top: 1rem;
+        font-size: 0.85rem;
+        color: #6a737d;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      .footer a {
+        color: var(--accent);
+      }
+      @media (max-width: 600px) {
+        .site-header {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      <header class="site-header">
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <a class="github-link" href="{{ site.github.repository_url }}">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+          View on GitHub
+        </a>
+      </header>
 
       {{ content }}
 
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-      {% endif %}
+      <footer class="footer">
+        <span>{{ site.description }}</span>
+        <span>
+          <a href="{{ site.github.repository_url }}">GitHub</a>
+          &middot;
+          <a href="{{ site.github.repository_url }}/blob/main/contributing.md">Contribute</a>
+          {% if site.github.license %}
+            &middot;
+            <a href="{{ site.github.repository_url }}/blob/main/license">License</a>
+          {% endif %}
+        </span>
+      </footer>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    <script>anchors.add('.markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5');</script>
   </body>
 </html>
