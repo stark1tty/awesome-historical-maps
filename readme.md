@@ -8,8 +8,8 @@
 
 > Databases, search engines, map collections, research guides, and tools for exploring historical maps and cartography.
 
-Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analogous with the modern landscape. This repo encompasses both recent history and earlier.
 
+<!--lint disable awesome-toc-->
 ## Contents
 
 - [Databases and Search Engines](#databases-and-search-engines)
@@ -17,11 +17,49 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
   - [Databases](#databases)
 - [Map Collections](#map-collections)
   - [World](#world)
+    - [Maritime](#maritime)
+    - [Military and Campaigns](#military-and-campaigns)
   - [Africa](#africa)
   - [Asia](#asia)
+    - [East Asia](#east-asia)
+      - [China](#china)
+      - [Japan](#japan)
+      - [Korea](#korea)
+      - [Taiwan](#taiwan)
+    - [South Asia](#south-asia)
+    - [Southeast Asia](#southeast-asia)
+    - [Middle East and Levant](#middle-east-and-levant)
   - [Caribbean](#caribbean)
   - [Europe](#europe)
+    - [Central Europe](#central-europe)
+      - [Austria-Hungary](#austria-hungary)
+      - [Belgium](#belgium)
+      - [Czech Republic](#czech-republic)
+      - [Germany](#germany)
+      - [Switzerland](#switzerland)
+      - [The Netherlands](#the-netherlands)
+      - [France](#france)
+    - [Eastern Europe](#eastern-europe)
+      - [Hungary](#hungary)
+      - [Poland](#poland)
+      - [Ukraine](#ukraine)
+    - [Mediterranean](#mediterranean)
+    - [Northern Europe](#northern-europe)
+      - [Denmark](#denmark)
+      - [Estonia](#estonia)
+      - [Finland](#finland)
+      - [Sweden](#sweden)
+    - [United Kingdom & Ireland](#united-kingdom--ireland)
+      - [England](#england)
+        - [Hampshire](#hampshire)
+        - [London](#london)
+      - [Ireland](#ireland)
+      - [Scotland](#scotland)
+      - [Wales](#wales)
   - [North America](#north-america)
+    - [United States](#united-states)
+    - [Canada](#canada)
+    - [Mexico](#mexico)
   - [South America](#south-america)
 - [Research Guides](#research-guides)
   - [General Research Guides](#general-research-guides)
@@ -39,6 +77,8 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
   - [Organisations](#organisations)
   - [Links](#links)
   - [Useful Awesome Lists](#useful-awesome-lists)
+    - [Digital Humanities](#digital-humanities)
+    - [Geospatial](#geospatial)
 - [Contribute](#contribute)
 
 ## Databases and Search Engines
@@ -263,7 +303,7 @@ Meta historical mapping search engines and other geospatial data.
 - [TORA (Topographical Register at the National Archives)](https://riksarkivet.se/tora-english) - Geocoded register of historical settlement units in Sweden, and a linked open data service connecting historical sources and databases. [GitHub.](https://github.com/Riksarkivet/tora)
 - [Lantmäteriet: Historiska kartor](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/Historiska-kartor/) - The Swedish national land survey authority's portal for over 100,000 high-resolution historical maps, including the 17th-century cadastral Häradskartorna series.
 
-#### United Kingdom
+#### United Kingdom & Ireland
 
 - [British History Online](https://www.british-history.ac.uk/catalogue/maps) - Historic maps of London from before 1800 and maps from the 19th-century series of the Ordnance Survey, plus a plethora of digitised primary sources throughout British history.
 - [Aerial Archaeology Mapping Explorer (Historic England)](https://historicengland.maps.arcgis.com/apps/webappviewer/index.html?id=d45dabecef5541f18255e12e5cd5f85a) - Compilation of archaeological mapping data collected by Historic England over 30 years from modern and historic aerial photographic sources. [More info.](https://historicengland.org.uk/research/results/aerial-archaeology-mapping-explorer/)
