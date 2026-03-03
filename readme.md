@@ -15,6 +15,7 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
 - [Databases and Search Engines](#databases-and-search-engines)
 - [Map Collections](#map-collections)
 - [Research Guides](#research-guides)
+  - [Guides by Region](#guides-by-region)
 - [Tools](#tools)
 - [Dealers](#dealers)
 - [Other](#other)
@@ -53,6 +54,7 @@ Meta historical mapping search engines and other geospatial data.
 - [Library of Congress Map Collections](https://www.loc.gov/maps/collections/) - Gateway to the Library of Congress Geography and Map Division's digitized collections, including over 5.5 million maps, atlases, globes, and related material.
 - [Digital Public Library of America](https://dp.la/) - Aggregates digitized content from libraries, archives, and museums across the United States, including a large collection of historical maps.
 - [Panoramic Maps 1847-1929](https://www.loc.gov/collections/panoramic-maps/about-this-collection/) - Library of Congress collection of 1,492 bird's-eye view maps of American towns and cities, showing streets, buildings, and landscape features in perspective.
+- [Discovery and Exploration](https://www.loc.gov/collections/discovery-and-exploration/about-this-collection/) - Library of Congress collection of maps documenting European exploration and discovery from the 15th through 19th centuries.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User-uploaded collection of interesting maps.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps covering all parts of the world, mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
@@ -69,11 +71,13 @@ Meta historical mapping search engines and other geospatial data.
 #### American Revolutionary War
 
 - [The American Revolution and Its Era: Maps and Charts of North America and the West Indies, 1750-1789](https://www.loc.gov/collections/american-revolutionary-war-maps/about-this-collection/) - Library of Congress collection of maps documenting the geographic context of the American Revolution.
+- [Rochambeau Collection](https://www.loc.gov/collections/rochambeau-maps/about-this-collection/) - 66 high-resolution manuscript and printed maps from the Library of Congress, documenting the French role in the American Revolutionary War.
 
 #### US Civil War
 
 - [Civil War Maps](https://www.loc.gov/collections/civil-war-maps) - Library of Congress collection of maps from the American Civil War.
 - [The Hotchkiss Map Collection: Confederate Army Maps](https://www.loc.gov/collections/hotchkiss-maps/about-this-collection/) - 348 manuscript maps compiled by Confederate topographic engineer Jedediah Hotchkiss, primarily depicting Virginia and surrounding areas.
+- [Military Battles and Campaigns](https://www.loc.gov/collections/military-battles-and-campaigns/about-this-collection/) - Library of Congress collection of over 4,000 maps and charts of military battles and campaigns from the American Revolution through World War I.
 - [Civil War Treasures from the New-York Historical Society](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47) - Maps and other Civil War materials from the New-York Historical Society.
 
 #### WW1
@@ -89,6 +93,7 @@ Meta historical mapping search engines and other geospatial data.
 ### Africa
 
 - [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive) - Military intelligence maps and associated documents relating to East Africa.
+- [Maps of Liberia 1830-1870](https://www.loc.gov/collections/maps-of-liberia-1830-to-1870/about-this-collection/) - Library of Congress collection of 29 maps from the American Colonization Society documenting the founding and early development of Liberia.
 
 ### Caribbean
 
@@ -171,6 +176,9 @@ Meta historical mapping search engines and other geospatial data.
 - [American Geographical Society Library Digital Map Collection](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [Sanborn Fire Insurance Maps](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - Library of Congress collection of large-scale maps depicting the layout of American cities and towns, produced for fire insurance underwriters from 1867-1970. Covers over 12,000 cities and towns.
 - [Railroad Maps 1828-1900](https://www.loc.gov/collections/railroad-maps-1828-to-1900/about-this-collection/) - Library of Congress collection of 635 maps documenting the planning and construction of the American railroad network.
+- [Cities and Towns](https://www.loc.gov/collections/cities-and-towns/about-this-collection/) - Library of Congress collection of panoramic and bird's-eye view maps of American cities and towns.
+- [Louisiana: European Explorations and the Louisiana Purchase](https://www.loc.gov/collections/louisiana-european-explorations-and-the-louisiana-purchase/about-this-collection/) - Library of Congress collection of 70 high-resolution maps tracing European exploration and the Louisiana Purchase territory.
+- [Transportation and Communication](https://www.loc.gov/collections/transportation-and-communication/) - Library of Congress collection of 865 maps documenting American roads, canals, railroads, and communication networks.
 - [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Directory containing over 100,000 place names.
 
 ##### Maine
@@ -211,6 +219,10 @@ Meta historical mapping search engines and other geospatial data.
 - [Using LiDAR Layers for Landscape Research (NLS)](https://maps.nls.uk/guides/lidar/) - Guide to using LiDAR data with historical maps for landscape research.
 - [Re-using Georeferenced Maps (NLS)](https://maps.nls.uk/guides/georeferencing/) - Guide to re-using georeferenced maps within GIS and other software.
 - [Re-using Map Datasets (NLS)](https://maps.nls.uk/guides/datasets/) - Guide to re-using map datasets within GIS and other software.
+
+### Guides by Region
+
+- [The Luso-Hispanic World in Maps](https://guides.loc.gov/luso-hispanic-world-in-maps) - Library of Congress guide to manuscript maps to 1900 depicting Spain, Portugal, and their colonial territories.
 
 ### Further Reading
 
