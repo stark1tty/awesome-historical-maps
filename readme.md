@@ -71,10 +71,7 @@ Meta historical mapping search engines and other geospatial data.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Over 150,000 maps focusing on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania.
 - [Library of Congress Map Collections](https://www.loc.gov/maps/collections/) - Gateway to the Library of Congress Geography and Map Division's digitized collections, including over 5.5 million maps, atlases, globes, and related material.
 - [Digital Public Library of America](https://dp.la/) - Aggregates digitized content from libraries, archives, and museums across the United States, including a large collection of historical maps.
-- [Panoramic Maps 1847-1929](https://www.loc.gov/collections/panoramic-maps/about-this-collection/) - Library of Congress collection of 1,492 bird's-eye view maps of American towns and cities, showing streets, buildings, and landscape features in perspective.
 - [Discovery and Exploration](https://www.loc.gov/collections/discovery-and-exploration/about-this-collection/) - Library of Congress collection of maps documenting European exploration and discovery from the 15th through 19th centuries.
-- [Exploring the Early Americas](https://www.loc.gov/exhibits/exploring-the-early-americas/) - Library of Congress exhibition tracing the history of the Americas through pre-Columbian to early colonial maps, manuscripts, and artifacts.
-- [US Census Statistical Atlases 1870-1920](https://www.census.gov/history/www/programs/geography/statistical_atlases.html) - Historical US Census statistical atlases documenting population, economic, and geographic data through maps.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User-uploaded collection of interesting maps.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps covering all parts of the world, mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
@@ -185,6 +182,9 @@ Meta historical mapping search engines and other geospatial data.
 
 #### United States
 
+- [Panoramic Maps 1847-1929](https://www.loc.gov/collections/panoramic-maps/about-this-collection/) - Library of Congress collection of 1,492 bird's-eye view maps of American towns and cities, showing streets, buildings, and landscape features in perspective.
+- [Exploring the Early Americas](https://www.loc.gov/exhibits/exploring-the-early-americas/) - Library of Congress exhibition tracing the history of the Americas through pre-Columbian to early colonial maps, manuscripts, and artifacts.
+- [US Census Statistical Atlases 1870-1920](https://www.census.gov/history/www/programs/geography/statistical_atlases.html) - Historical US Census statistical atlases documenting population, economic, and geographic data through maps.
 - [American Geographical Society Library Digital Map Collection](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [Sanborn Fire Insurance Maps](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - Library of Congress collection of large-scale maps depicting the layout of American cities and towns, produced for fire insurance underwriters from 1867-1970. Covers over 12,000 cities and towns.
 - [Railroad Maps 1828-1900](https://www.loc.gov/collections/railroad-maps-1828-to-1900/about-this-collection/) - Library of Congress collection of 635 maps documenting the planning and construction of the American railroad network.
