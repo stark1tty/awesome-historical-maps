@@ -6,15 +6,12 @@
   <a href="https://stark1tty.github.io/awesome-historical-maps/"><img src="images/banner.jpg" width="600" alt="Historic map illustration"></a>
 </p>
 
-> Databases, search engines, map collections, research guides, and tools for exploring historical maps and cartography.
+> Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
 
 
 <!--lint disable awesome-toc-->
 ## Contents
 
-- [Databases and Search Engines](#databases-and-search-engines)
-  - [Search Engines](#search-engines)
-  - [Databases](#databases)
 - [Map Collections](#map-collections)
   - [World](#world)
     - [Maritime](#maritime)
@@ -80,6 +77,7 @@
   - [Search Tools](#search-tools)
   - [QGIS Extensions](#qgis-extensions)
   - [APIs](#apis)
+- [Other Historical Map Data](#other-historical-map-data)
 - [Dealers](#dealers)
 - [Other](#other)
   - [Organisations](#organisations)
@@ -89,25 +87,11 @@
     - [Geospatial](#geospatial)
 - [Contribute](#contribute)
 
-## Databases and Search Engines
-
-Meta historical mapping search engines and other geospatial data.
-
-### Search Engines
-
-- [Old Maps Online](https://www.oldmapsonline.org/) - Search catalog that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest.
-- [National Library of Scotland's Map Finder](https://maps.nls.uk/geo/find/#zoom=7.0&lat=57.00000&lon=-4.40000&layers=102&b=1&z=0&point=0,0) - Search tool for finding historical maps of Scotland and beyond from the National Library of Scotland.
-
-### Databases
-
-- [Open Historical Map](https://www.openhistoricalmap.org/) - Collaborative project to build a free, editable map of the world's history.
-- [World Historical Gazetteer](https://whgazetteer.org/) - Collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
-- [Pleiades](https://pleiades.stoa.org/) - Community-built gazetteer and graph of ancient places, publishing authoritative information about ancient places and spaces under open license.
-
 ## Map Collections
 
 ### World
 
+- [Open Historical Map](https://www.openhistoricalmap.org/) - Collaborative project to build a free, editable map of the world's history.
 - [The Pelagios Network](https://pelagios.org/) - Long-running initiative that links information online through common references to places, connecting researchers, scientists and curators to link and explore the history of places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
 - [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about medieval maps.
@@ -497,6 +481,8 @@ Meta historical mapping search engines and other geospatial data.
 
 ### Search Tools
 
+- [Old Maps Online](https://www.oldmapsonline.org/) - Search catalog that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest.
+- [National Library of Scotland's Map Finder](https://maps.nls.uk/geo/find/#zoom=7.0&lat=57.00000&lon=-4.40000&layers=102&b=1&z=0&point=0,0) - Search tool for finding historical maps of Scotland and beyond from the National Library of Scotland.
 - [MapRank Search](https://rumsey.mapranksearch.com/) - Geographic search interface for the David Rumsey Map Collection, allowing discovery of historical maps by location and date.
 
 ### QGIS Extensions
@@ -506,6 +492,11 @@ Meta historical mapping search engines and other geospatial data.
 ### APIs
 
 - [Historic Maps API Layers (NLS)](https://maps.nls.uk/projects/api/) - Georeferenced map layers of Great Britain and Ireland for re-use from the National Library of Scotland.
+
+## Other Historical Map Data
+
+- [World Historical Gazetteer](https://whgazetteer.org/) - Collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
+- [Pleiades](https://pleiades.stoa.org/) - Community-built gazetteer and graph of ancient places, publishing authoritative information about ancient places and spaces under open license.
 
 ## Dealers
 
