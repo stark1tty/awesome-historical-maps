@@ -156,7 +156,7 @@ Meta historical mapping search engines and other geospatial data.
 - [Atlas of Mutual Heritage (VOC / East Indies)](http://www.atlasofmutualheritage.nl/) - English-language data bank providing a systematic survey of VOC settlements and cartography of the East Indies.
 - [Philippines: Top Secret - Decoding a WWII Manuscript Map (Harvard)](https://uploads.knightlab.com/storymapjs/1a785295a92458a9c978f0b64d0380c8/top-secret/index.html) - Online exhibition from the Harvard Map Collection exploring a declassified WWII manuscript map of the Philippines.
 
-#### Middle East and Holy Land
+#### Middle East and Levant
 
 - [Holy Land: The Leonard and Juliet Rothman Holy Lands Map Collection (Stanford)](https://searchworks.stanford.edu/view/yv564xb3836) - 468 high-resolution images of Holy Land maps from Stanford University Libraries.
 - [Holy Land: The Moldovan Family Holy Land Map Collection (University of Pennsylvania)](http://sceti.library.upenn.edu/moldovanmaps/index.cfm) - 94 high-resolution maps of the Holy Land, 1480-1797, from the Schoenberg Center at the University of Pennsylvania.
