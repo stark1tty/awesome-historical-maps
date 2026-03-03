@@ -50,6 +50,9 @@ Meta historical mapping search engines and other geospatial data.
 - [The National Archives Map Collection (UK)](https://images.nationalarchives.gov.uk/assetbank-nationalarchives/action/browseItems?categoryId=23&categoryTypeId=1) - Maps and plans from 1485 to the early 1900s including maps of America, Canada and the West Indies, plus military and political Foreign Office maps.
 - [University of Oxford: Bodleian Map Room](https://www.bodleian.ox.ac.uk/maps) - Nearly two million maps and around 20,000 atlases, including material dating from the 14th to the 21st century, with strength in British material. Includes [Digital Bodleian](https://digital.bodleian.ox.ac.uk/) with 2,500+ digitised maps and atlases.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Over 150,000 maps focusing on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania.
+- [Library of Congress Map Collections](https://www.loc.gov/maps/collections/) - Gateway to the Library of Congress Geography and Map Division's digitized collections, including over 5.5 million maps, atlases, globes, and related material.
+- [Digital Public Library of America](https://dp.la/) - Aggregates digitized content from libraries, archives, and museums across the United States, including a large collection of historical maps.
+- [Panoramic Maps 1847-1929](https://www.loc.gov/collections/panoramic-maps/about-this-collection/) - Library of Congress collection of 1,492 bird's-eye view maps of American towns and cities, showing streets, buildings, and landscape features in perspective.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User-uploaded collection of interesting maps.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps covering all parts of the world, mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
@@ -63,9 +66,14 @@ Meta historical mapping search engines and other geospatial data.
 
 ### Military and Campaigns
 
+#### American Revolutionary War
+
+- [The American Revolution and Its Era: Maps and Charts of North America and the West Indies, 1750-1789](https://www.loc.gov/collections/american-revolutionary-war-maps/about-this-collection/) - Library of Congress collection of maps documenting the geographic context of the American Revolution.
+
 #### US Civil War
 
 - [Civil War Maps](https://www.loc.gov/collections/civil-war-maps) - Library of Congress collection of maps from the American Civil War.
+- [The Hotchkiss Map Collection: Confederate Army Maps](https://www.loc.gov/collections/hotchkiss-maps/about-this-collection/) - 348 manuscript maps compiled by Confederate topographic engineer Jedediah Hotchkiss, primarily depicting Virginia and surrounding areas.
 - [Civil War Treasures from the New-York Historical Society](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47) - Maps and other Civil War materials from the New-York Historical Society.
 
 #### WW1
@@ -76,6 +84,7 @@ Meta historical mapping search engines and other geospatial data.
 #### WW2
 
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 fortifications and related structures in and around Narvik, Norway.
+- [World War II Military Situation Maps 1944-1945](https://www.loc.gov/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/about-this-collection/) - Library of Congress collection of 423 high-resolution maps giving daily details on troop positions and movements on both fronts, 1944-1945.
 
 ### Africa
 
@@ -160,6 +169,8 @@ Meta historical mapping search engines and other geospatial data.
 #### United States
 
 - [American Geographical Society Library Digital Map Collection](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
+- [Sanborn Fire Insurance Maps](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - Library of Congress collection of large-scale maps depicting the layout of American cities and towns, produced for fire insurance underwriters from 1867-1970. Covers over 12,000 cities and towns.
+- [Railroad Maps 1828-1900](https://www.loc.gov/collections/railroad-maps-1828-to-1900/about-this-collection/) - Library of Congress collection of 635 maps documenting the planning and construction of the American railroad network.
 - [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Directory containing over 100,000 place names.
 
 ##### Maine
