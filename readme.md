@@ -13,7 +13,14 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
 ## Contents
 
 - [Databases and Search Engines](#databases-and-search-engines)
+  - [Search Engines](#search-engines)
+  - [Databases](#databases)
 - [Map Collections](#map-collections)
+  - [World](#world)
+  - [Africa](#africa)
+  - [Caribbean](#caribbean)
+  - [Europe](#europe)
+  - [North America](#north-america)
 - [Research Guides](#research-guides)
   - [General Research Guides](#general-research-guides)
   - [Guides by Topic](#guides-by-topic)
@@ -21,8 +28,15 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
   - [Guides by Region](#guides-by-region)
   - [Further Reading](#further-reading)
 - [Tools](#tools)
+  - [Applications](#applications)
+  - [Search Tools](#search-tools)
+  - [QGIS Extensions](#qgis-extensions)
+  - [APIs](#apis)
 - [Dealers](#dealers)
 - [Other](#other)
+  - [Organisations](#organisations)
+  - [Links](#links)
+  - [Useful Awesome Lists](#useful-awesome-lists)
 - [Contribute](#contribute)
 
 ## Databases and Search Engines
