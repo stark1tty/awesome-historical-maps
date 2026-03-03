@@ -55,6 +55,8 @@ Meta historical mapping search engines and other geospatial data.
 - [Digital Public Library of America](https://dp.la/) - Aggregates digitized content from libraries, archives, and museums across the United States, including a large collection of historical maps.
 - [Panoramic Maps 1847-1929](https://www.loc.gov/collections/panoramic-maps/about-this-collection/) - Library of Congress collection of 1,492 bird's-eye view maps of American towns and cities, showing streets, buildings, and landscape features in perspective.
 - [Discovery and Exploration](https://www.loc.gov/collections/discovery-and-exploration/about-this-collection/) - Library of Congress collection of maps documenting European exploration and discovery from the 15th through 19th centuries.
+- [Exploring the Early Americas](https://www.loc.gov/exhibits/exploring-the-early-americas/) - Library of Congress exhibition tracing the history of the Americas through pre-Columbian to early colonial maps, manuscripts, and artifacts.
+- [US Census Statistical Atlases 1870-1920](https://www.census.gov/history/www/programs/geography/statistical_atlases.html) - Historical US Census statistical atlases documenting population, economic, and geographic data through maps.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User-uploaded collection of interesting maps.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps covering all parts of the world, mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
@@ -119,6 +121,10 @@ Meta historical mapping search engines and other geospatial data.
 
 - [Amsterdam University Library Kaartencollectie](http://dpc.uba.uva.nl/kaartencollectie/) - Maps covering The Netherlands and the rest of the world, including wall-maps, the work of C. Claesz, water-feature mapping, and more.
 - [Palaeogeographic Maps of the Netherlands](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf) - Palaeogeographic maps from the Rijksdienst voor het Cultureel Erfgoed.
+
+##### France
+
+- [Cassini: Carte de France](https://www.loc.gov/resource/g5830m.ghl00001/) - All 182 sheets of the first modern topographic survey of France, commissioned by Louis XV and produced 1756-1815, held at the Library of Congress.
 
 #### Mediterranean
 
@@ -198,6 +204,7 @@ Meta historical mapping search engines and other geospatial data.
 ### General Research Guides
 
 - [A Guide to Reading and Analysing Historic Maps (NLS)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/) - Step-by-step guide to reading and analysing historical maps from the National Library of Scotland.
+- [Library of Congress Teacher Resources: Maps](http://www.loc.gov/teachers/) - Teaching materials, lesson plans, and classroom activities from the Library of Congress Geography and Map Division.
 
 ### Guides by Topic
 
@@ -241,6 +248,10 @@ Meta historical mapping search engines and other geospatial data.
 - [MapReader](https://github.com/Living-with-machines/MapReader) - End-to-end computer vision pipeline for exploring and analyzing images at scale, developed to analyze large collections of historical maps.
 - [desCartes](https://github.com/docuracy/desCartes) - Recognises roads on old maps and converts them to vector lines for GIS applications and historical transport network analysis.
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps across libraries, archives and museums worldwide.
+
+### Search Tools
+
+- [MapRank Search](https://rumsey.mapranksearch.com/) - Geographic search interface for the David Rumsey Map Collection, allowing discovery of historical maps by location and date.
 
 ### QGIS Extensions
 
