@@ -4,3 +4,4 @@ development/
 _site/
 .jekyll-cache/
 *~
+dev/*

@@ -63,31 +63,19 @@ Meta historical mapping search engines and other geospatial data.
 - [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - Maps from the 16th century onwards with general coverage, most from the Rucker Agee collection.
 - [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection.
 
-### Maritime
+#### Maritime
 
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Collection of detailed charts and sailing directions from pilot books and sea atlases, beginning in the late 16th century.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps) - Nautical maps collection from the National Library of Wales.
 
-### Military and Campaigns
+#### Military and Campaigns
 
-#### American Revolutionary War
-
-- [The American Revolution and Its Era: Maps and Charts of North America and the West Indies, 1750-1789](https://www.loc.gov/collections/american-revolutionary-war-maps/about-this-collection/) - Library of Congress collection of maps documenting the geographic context of the American Revolution.
-- [Rochambeau Collection](https://www.loc.gov/collections/rochambeau-maps/about-this-collection/) - 66 high-resolution manuscript and printed maps from the Library of Congress, documenting the French role in the American Revolutionary War.
-
-#### US Civil War
-
-- [Civil War Maps](https://www.loc.gov/collections/civil-war-maps) - Library of Congress collection of maps from the American Civil War.
-- [The Hotchkiss Map Collection: Confederate Army Maps](https://www.loc.gov/collections/hotchkiss-maps/about-this-collection/) - 348 manuscript maps compiled by Confederate topographic engineer Jedediah Hotchkiss, primarily depicting Virginia and surrounding areas.
-- [Military Battles and Campaigns](https://www.loc.gov/collections/military-battles-and-campaigns/about-this-collection/) - Library of Congress collection of over 4,000 maps and charts of military battles and campaigns from the American Revolution through World War I.
-- [Civil War Treasures from the New-York Historical Society](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47) - Maps and other Civil War materials from the New-York Historical Society.
-
-#### WW1
+##### WW1
 
 - [British First World War Trench Maps, 1915-1918 (NLS)](https://maps.nls.uk/ww1/trenches/) - Maps of the Western Front in the Great War depicting British and German trenches.
 - [WW1 Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps) - World War 1 maps collection from the National Library of Wales.
 
-#### WW2
+##### WW2
 
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 fortifications and related structures in and around Narvik, Norway.
 - [World War II Military Situation Maps 1944-1945](https://www.loc.gov/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/about-this-collection/) - Library of Congress collection of 423 high-resolution maps giving daily details on troop positions and movements on both fronts, 1944-1945.
@@ -186,6 +174,20 @@ Meta historical mapping search engines and other geospatial data.
 - [Louisiana: European Explorations and the Louisiana Purchase](https://www.loc.gov/collections/louisiana-european-explorations-and-the-louisiana-purchase/about-this-collection/) - Library of Congress collection of 70 high-resolution maps tracing European exploration and the Louisiana Purchase territory.
 - [Transportation and Communication](https://www.loc.gov/collections/transportation-and-communication/) - Library of Congress collection of 865 maps documenting American roads, canals, railroads, and communication networks.
 - [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Directory containing over 100,000 place names.
+
+##### Military 
+
+###### American Revolutionary War
+
+- [The American Revolution and Its Era: Maps and Charts of North America and the West Indies, 1750-1789](https://www.loc.gov/collections/american-revolutionary-war-maps/about-this-collection/) - Library of Congress collection of maps documenting the geographic context of the American Revolution.
+- [Rochambeau Collection](https://www.loc.gov/collections/rochambeau-maps/about-this-collection/) - 66 high-resolution manuscript and printed maps from the Library of Congress, documenting the French role in the American Revolutionary War.
+
+###### US Civil War
+
+- [Civil War Maps](https://www.loc.gov/collections/civil-war-maps) - Library of Congress collection of maps from the American Civil War.
+- [The Hotchkiss Map Collection: Confederate Army Maps](https://www.loc.gov/collections/hotchkiss-maps/about-this-collection/) - 348 manuscript maps compiled by Confederate topographic engineer Jedediah Hotchkiss, primarily depicting Virginia and surrounding areas.
+- [Military Battles and Campaigns](https://www.loc.gov/collections/military-battles-and-campaigns/about-this-collection/) - Library of Congress collection of over 4,000 maps and charts of military battles and campaigns from the American Revolution through World War I.
+- [Civil War Treasures from the New-York Historical Society](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47) - Maps and other Civil War materials from the New-York Historical Society.
 
 ##### Maine
 
