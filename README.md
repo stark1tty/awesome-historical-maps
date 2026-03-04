@@ -3,7 +3,7 @@
 # Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/stark1tty/awesome-historical-maps/actions/workflows/lint.yaml/badge.svg)](https://github.com/stark1tty/awesome-historical-maps/actions/workflows/lint.yaml)
 
 <p align="center">
-  <a href="https://stark1tty.github.io/awesome-historical-maps/"><img src="images/banner.jpg" width="600" alt="Historic map illustration"></a>
+  <a href="https://stark1tty.github.io/awesome-historical-maps/"><img src="images/banner2.avif" width="600" alt="Claudius Ptolemy, 13th Century, world map"></a>
 </p>
 
 > Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
