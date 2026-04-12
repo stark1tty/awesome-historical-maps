@@ -1,6 +1,5 @@
 <!--lint ignore no-dead-urls-->
-<!--lint ignore awesome-heading-->
-# Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/stark1tty/awesome-historical-maps/actions/workflows/lint.yaml/badge.svg)](https://github.com/stark1tty/awesome-historical-maps/actions/workflows/lint.yaml)
+# Awesome Historical Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <a href="https://stark1tty.github.io/awesome-historical-maps/">
@@ -9,8 +8,6 @@
 
 > Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
 
-
-<!--lint disable awesome-toc-->
 ## Contents
 
 - [Map Collections](#map-collections)
