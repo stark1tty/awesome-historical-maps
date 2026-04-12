@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "bullet": "-"
+  },
+  "plugins": [
+    ["remark-lint-table-of-contents", { "maxDepth": 3 }]
+  ]
+}
