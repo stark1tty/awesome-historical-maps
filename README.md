@@ -84,6 +84,7 @@
     - [Digital Humanities](#digital-humanities)
     - [Geospatial](#geospatial)
 - [Contribute](#contribute)
+- [Footnotes](#footnotes)
 
 ## Map Collections
 
@@ -536,8 +537,9 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
----
----
+## Footnotes
+
+This list includes resources from various institutions worldwide dedicated to historical cartography and mapping.
 
 ## Star History
 
