@@ -478,6 +478,8 @@
 - [desCartes](https://github.com/docuracy/desCartes) - Recognises roads on old maps and converts them to vector lines for GIS applications and historical transport network analysis.
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps across libraries, archives and museums worldwide.
 
+- [StoryRoute](https://storyroute.netlify.app/) - AI-powered GPS audio tour guide that generates location-based historical narrations as you explore cities, landmarks, and heritage sites, using LLMs and OpenStreetMap geospatial data.
+
 ### Search Tools
 
 - [Old Maps Online](https://www.oldmapsonline.org/) - Search catalog that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest.
