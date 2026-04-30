@@ -516,6 +516,7 @@
 
 #### Digital Humanities
 
+- [Open Archaeo](https://github.com/zackbatist/open-archaeo) -  A list of open source archaeological software and resources. 
 - [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 #### Geospatial
