@@ -490,6 +490,7 @@
 
 ### APIs
 
+- [AtlasPI](https://atlaspi.it) - Free REST API and MCP server for historical geography: 1,000+ polities with GeoJSON borders, events, trade routes, succession chains and rulers (4500 BCE-2024), sourced and confidence-scored.
 - [Historic Maps API Layers (NLS)](https://maps.nls.uk/projects/api/) - Georeferenced map layers of Great Britain and Ireland for re-use from the National Library of Scotland.
 
 ## Other Historical Map Data
