@@ -90,6 +90,7 @@
 
 ### World
 
+- [Geo China](https://geo.taoliapp.com/) - Interactive 3D globe timeline of China's historical administrative geography with linked poetry, battles, people, and local lore.
 - [Open Historical Map](https://www.openhistoricalmap.org/) - Collaborative project to build a free, editable map of the world's history.
 - [The Pelagios Network](https://pelagios.org/) - Long-running initiative that links information online through common references to places, connecting researchers, scientists and curators to link and explore the history of places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - World map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
