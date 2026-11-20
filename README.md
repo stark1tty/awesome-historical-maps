@@ -496,6 +496,7 @@
 
 - [World Historical Gazetteer](https://whgazetteer.org/) - Collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 - [Pleiades](https://pleiades.stoa.org/) - Community-built gazetteer and graph of ancient places, publishing authoritative information about ancient places and spaces under open license.
+- [Bible Places (Christian Pure)](https://github.com/christianpure/bible-data/tree/main/bible-places) - The 1,246 places named in the Bible, from Genesis to Revelation, with coordinates, how certain each location is, names in 11 languages, and links to Pleiades and Wikidata. CC BY 4.0.
 
 ## Dealers
 
